@@ -1,0 +1,12 @@
+h1{
+    font-size: 35px;
+    background-color: red;
+    color: aliceblue;
+}
+.class{
+    width: 550px;
+    height: 100px;
+    font-size: 20px;
+    color: aqua;
+    background-color: black;
+}
